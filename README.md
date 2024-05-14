@@ -7,6 +7,6 @@ This repository contains the files and data related to the research paper titled
 **Short Term Solar Forecasting.pdf**: The main research paper in PDF format, containing detailed findings, analysis, and conclusions regarding the forecasting of solar irradiance.
 
 ## MATLAB Scripts for Forecasting
-**ANN.m**: Trains and tests a nonlinear autoregressive neural network.
-**ANNX.m**: Trains and tests a nonlinear autoregressive neural network with exogenous inputs.
-**AR.m**: Trains and tests an autoregressive linear forecasting model.
+1. **ANN.m**: Trains and tests a nonlinear autoregressive neural network.
+2. **ANNX.m**: Trains and tests a nonlinear autoregressive neural network with exogenous inputs.
+3. **AR.m**: Trains and tests an autoregressive linear forecasting model.
