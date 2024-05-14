@@ -1,4 +1,4 @@
-# Solar Irradiance Forecasting
+# Short Term Solar Forecasting
 
 ## Overview
 This repository contains the files and data related to the research paper titled "Short Term Solar Forecasting." The paper explores the performance of different models in forecasting the solar irradiance at a given location.
